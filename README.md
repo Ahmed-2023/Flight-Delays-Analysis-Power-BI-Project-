@@ -16,7 +16,7 @@ Page 1: Flight Performance & Delay Analysis
 Page 2: Airline Performance Analysis
 <img width="1179" height="689" alt="Page 2" src="https://github.com/user-attachments/assets/a4e94ede-cfd7-4970-9f05-b43e44c33610" />
 # Link-Interactive Dashboard
--<a href="https://drive.google.com/file/d/1bqQ_18L-xZbmxXmzwaZUVtMfB2LzgKNG/view?usp=drive_link">dashboard
+-<a href="https://drive.google.com/file/d/1bqQ_18L-xZbmxXmzwaZUVtMfB2LzgKNG/view?usp=drive_link">Interactive Dashboard
 # Tools Used
 - Power BI
 - DAX
